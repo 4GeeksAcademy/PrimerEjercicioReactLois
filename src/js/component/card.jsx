@@ -6,7 +6,7 @@ import React from "react";
 
 const Card = () => {
     return ( 
-        <div className="CardContainer d-flex" style={{ width: "80%", margin: "auto", marginTop: "20px" }} >
+        <div className="CardContainer d-flex" style={{ width: "80%", margin: "0 auto", marginTop: "20px" }} >
             <div className="card mx-4 mb-3" >
                 <img src="https://img.freepik.com/foto-gratis/fondo-creativo-alto-angulo-formas-grises_23-2148811502.jpg" className="card-img-top" alt="..." />    
                 <div className="card-body text-center">
