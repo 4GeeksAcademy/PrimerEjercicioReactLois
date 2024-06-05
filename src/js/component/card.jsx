@@ -1,6 +1,6 @@
 import React from "react";
 //importado card de bootsrap
-//mb-3 para asegurar que las tarjetas tengan un espaciado adecuado entre ellas en todas las resoluciones de pantalla
+//mb-3 para asegurar que las tarjetas tengan un espaciado adecuado entre ellas en todas las resoluciones de pantallas
 // text-center para poner todo el contenido de la "caja" en el medio.
 
 const Card = () => {
